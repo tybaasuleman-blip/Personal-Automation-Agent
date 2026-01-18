@@ -1,0 +1,2 @@
+# No external libraries needed for this version.
+# Standard Python smtplib is used.
