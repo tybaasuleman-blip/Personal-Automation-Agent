@@ -17,3 +17,12 @@ The goal of this assignment was to move beyond basic coding and create an "Agent
 
 ##  Mentorship
 Developed under the guidance of **Sir Zeeshan Ali**.
+
+## ⚙️ Setup & Installation
+1. Clone this repository.
+2. Ensure you have Python installed.
+3. (Optional) Install dependencies:
+   `pip install -r requirements.txt`
+4. Configure your `SENDER_EMAIL` and `APP_PASSWORD` in `main.py`.
+5. Run the script:
+   `python main.py`
